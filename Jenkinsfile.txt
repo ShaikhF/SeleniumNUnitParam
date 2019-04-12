@@ -1,5 +1,5 @@
 Pipeline
 {
     Stage 'Checkout from Git'    
-    git 'file:///C:/git_test/GITHUB/SeleniumNUnitParam'   
+    git 'https://github.com/ShaikhF/SeleniumNUnitParam.git'   
 }
